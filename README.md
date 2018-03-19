@@ -1,11 +1,11 @@
 # K-Means
 K-Means classification algorithm implemented in Python to cluster the unclustered dataset based on certain criteria. The criteria includes:
 
-1. user specified number of clusters for K-Means algorithm
+1) User specified number of clusters for K-Means algorithm
 
-2. the maximum number of iterations for the algorithm
+2) The maximum number of iterations for the algorithm
 
-3. the epsilon value (change of the sum of the distance from the centroids between iterations)
+3) The epsilon value (change of the sum of the distance from the centroids between iterations)
 
 ## Instruction
 To Run the program use the following command: 
