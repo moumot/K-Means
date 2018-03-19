@@ -10,7 +10,7 @@ K-Means classification algorithm implemented in Python to cluster the unclustere
 ## Instruction
 To Run the program use the following command: 
 
-**python kMeans.py "filename" "Number of Clusters" "Iterations" "Epsilon" **
+python kMeans.py "filename" "Number of Clusters" "Iterations" "Epsilon"
 
 where,
 
