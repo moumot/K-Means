@@ -24,3 +24,12 @@ Example:
 	
 After running the code, the output will generated in the same directory as k.output.txt, where k is the number of cluster number 
 
+## Implementation
+1) The program will first randomly assign k initial centroids 
+
+2) Assigning the members of each centroid based on the minimum squared distance between each instance and the centroid 
+
+3) After updating each cluster, it will generate the new centroid of each cluster by calculating the means
+of all the clusters in each centroid 
+
+4) The program will run until the sum of square error fall below epsilon or when it reaches the user specified number of iterations.
