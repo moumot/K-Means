@@ -13,6 +13,7 @@ To Run the program use the following command:
 **python kMeans.py <filename> <Number of Clusters> <Iterations> <Epsilon>**
 
 where,
+
 	filename = the name of the .arff dataset
 	Number of clusters = the value of k,
 	iterations = the maximum number of iterations
